@@ -1,0 +1,27 @@
+.container1{
+	background-color: #ed4a4a;
+}
+
+.form1{
+	background-color: #ed4a4a;
+	width: 320px;
+	box-shadow: 2px 2px 2px rgba(0,0,0, 0.8);
+	margin: auto;
+	padding: 10px;
+}
+#submit{
+	background-color: #d2e366;
+}
+label{
+	font-weight:Bold;
+	font-style:italic;
+}
+body{
+	background-image: url(https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/red/image_93_color4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+Last{
+	text-align: right;
+}
